@@ -1,0 +1,3 @@
+# ChangeStepsByHealthKit
+通过HealthKit可以随意改变Health的步数，在微信运动里面想占领封面就可以占领哦
+在health APP 中可以发现改变的步数
