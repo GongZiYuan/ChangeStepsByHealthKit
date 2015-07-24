@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0B39EDC7-CB69-46AA-8A7C-E704189D57D0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CFED725D51E23A38D58F220E334D228D2A61650C</key>
+		<string>https://github.com/GongZiYuan/gongziyuan_testPro.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ChangeStepsByHealthKit/ChangeStepsByHealthKit.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CFED725D51E23A38D58F220E334D228D2A61650C</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/GongZiYuan/gongziyuan_testPro.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CFED725D51E23A38D58F220E334D228D2A61650C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CFED725D51E23A38D58F220E334D228D2A61650C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>gongziyuan_testPro</string>
+		</dict>
+	</array>
+</dict>
+</plist>
